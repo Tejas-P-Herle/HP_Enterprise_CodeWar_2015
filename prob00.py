@@ -1,0 +1,1 @@
+print("Hewlett Packard Enterprise – CodeWars 2015")

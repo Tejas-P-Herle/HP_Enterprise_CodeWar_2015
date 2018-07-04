@@ -1,0 +1,1 @@
+import math;fact = str(math.factorial(int(input())));print(fact + "\n" + str(len(fact) - len(fact.rstrip("0"))))
